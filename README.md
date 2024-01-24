@@ -41,3 +41,4 @@ FORA DE OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES NO
 PROGRAMAS.**
 
 ## Contato dos Desenvolvedores
+**nome e email**
