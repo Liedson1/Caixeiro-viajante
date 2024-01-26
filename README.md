@@ -42,6 +42,6 @@ PROGRAMAS.**
 
 ## Contato dos Desenvolvedores
 
-João Carlos joaocar2003@gmail.com
-Isaac Kawan isaakawan123456@gmail.com
-Ana Beatriz beatriz.ana.silva1006@gmail.com
+1. João Carlos joaocar2003@gmail.com
+1. Isaac Kawan isaakawan123456@gmail.com
+1. Ana Beatriz beatriz.ana.silva1006@gmail.com
