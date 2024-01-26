@@ -41,4 +41,7 @@ FORA DE OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES NO
 PROGRAMAS.**
 
 ## Contato dos Desenvolvedores
-**nome e email**
+
+João Carlos joaocar2003@gmail.com
+Isaac Kawan isaakawan123456@gmail.com
+Ana Beatriz beatriz.ana.silva1006@gmail.com
