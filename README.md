@@ -26,8 +26,7 @@ Acesse o diretório do projeto:
  cd seu-repositorio
 
 3. Execute o Programa:
-python att48.py
-Forneça Parâmetros (se aplicável):
+python att48.py:
 
 Simples assim. Caso não consigam: 
 
