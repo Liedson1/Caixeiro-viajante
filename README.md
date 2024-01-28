@@ -13,10 +13,38 @@ O projeto trabalhará com as seguintes bases de dados:
 
 Os valores das soluções para cada base de dados estão indicados na página da base de dados.
 
+## Como Usar
+1. Clone o Repositório:
+
+Clone este repositório em sua máquina local usando o seguinte comando:
+
+ git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/Liedson1/Caixeiro-viajante/tree/main)
+
+2. Navegue até o Diretório:
+
+Acesse o diretório do projeto:
+ cd seu-repositorio
+
+3. Execute o Programa:
+python att48.py
+Forneça Parâmetros (se aplicável):
+
+Simples assim. Caso não consigam: 
+
+1. Na seção <> Code:
+   Faça o download ZIP do código
+
+2. Em seguida, desempacote o arquivo zip.
+
+3. Abra a pasta no VSCode.
+
+4. Por fim, rode o código utilizando o seguinte comando:
+   python att48.py //Exemplo, pois pode rodar os outros códigos disponíveis.
+
 
 ## Algoritmos
 
-Serão implementados algoritmos para encontrar os caminhos mínimos para cada base de dados. Os resultados serão comparados com os valores conhecidos de solução para avaliação da eficácia dos algoritmos.
+Serão implementados inicialmente programas para ler e armazenar as informações numa estrutura de dados(nesse caso, utilizamos uma lista). Logo em seguida, serão implementados algoritmos para encontrar os caminhos mínimos para cada base de dados. Os resultados serão comparados com os valores conhecidos de solução para avaliação da eficácia dos algoritmos.
 
 ## Licença MIT
 
