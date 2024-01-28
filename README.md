@@ -13,6 +13,9 @@ O projeto trabalhará com as seguintes bases de dados:
 
 Os valores das soluções para cada base de dados estão indicados na página da base de dados.
 
+## Software necessário
+O projeto foi desenvolvido usando Python 3.11.6.
+
 ## Como Usar
 1. Clone o Repositório:
 
