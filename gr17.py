@@ -13,20 +13,23 @@ def read_tsp_file(file_path):
                 break
 
             if reading_coords:
-                weights = list(map(int, line.split()))
-                cities.extend(weights)
+                coords = list(map(int, line.split()))
+                cities.extend(coords)
 
     return cities
 
 def main():
-    file_path = 'p01.tsp.txt'
+    file_path = 'gr17.tsp.txt'
     cities = read_tsp_file(file_path)
 
     # Imprimir as coordenadas das cidades
-    num_cities = int(len(cities) ** 0.5)
+    num_cities = len(cities)
     for i in range(num_cities):
-        for j in range(num_cities):
-            print(f'Peso entre a Cidade {i+1} e a Cidade {j+1}: {cities[i * num_cities + j]}')
+        x = cities[i]
+        y = cities[(i + 1) % num_cities]  # O arquivo gr17.tsp.txt não contém -1, assumindo um ciclo
+
+        print(f'Cidade {i+1}: ({x}, {y})')
 
 if __name__ == "__main__":
     main()
+
